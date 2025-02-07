@@ -26,7 +26,7 @@ The data was gathered from various sources, including hurricane predictions from
 ## Folders
 The folder structure and their contents are outlined below:
 - 01 Data: Data sourced from the European Climate Assessment & Data Set project in CSV/pickle format (unscaled and scaled).
-Scaled data could not be uploaded due to the file size.
+The scaled data could not be uploaded due to its file size.
 - 02 Scripts: Python code used in the analysis, executed using Jupyter Notebooks.
 
 ## Coding Overview
