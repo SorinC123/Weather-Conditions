@@ -36,6 +36,5 @@ Code was written in Python and executed in Jupyter notebooks.
 - OS: For interacting with the operating system, including file and directory operations.
 - Matplotlib.pyplot: For creating static, interactive, and animated visualizations.
 - Seaborn: For statistical data visualization and creating graphics.
-- Scipy: For scientific and technical computing.
-- Statsmodels.api: For linear regression, logistic regression, time series models. 
+- Scikit-learn (sklearn): For implementing KNN, Decision Tree, and ANN algorithms; also, for optimization using the Gradient Descent algorithm.
 
