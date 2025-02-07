@@ -20,14 +20,12 @@ The data sets used for this project include:
   
 - recordings for almost every day with values such as temperature, wind speed, snow, global radiation, and more. 
 
+The data was gathered from various sources, including hurricane predictions from the U.S. National Oceanic and Atmospheric Administration (NOAA), typhoon data from the Japan Meteorological Agency (JMA), global temperature records, and numerous other data sets.
 
-
-The data can be accessed here:
-https://www.kaggle.com/datasets/unsdsn/world-happiness
 
 ## Folders
 The folder structure and their contents are outlined below:
-- 01 Data: Data sourced from Kaggle in CSV format and an Excel file with the Data Dictionary.
+- 01 Data: Data sourced from the European Climate Assessment & Data Set project in CSV/pickle format (unscaled and scaled).
 - 02 Scripts: Python code used in the analysis, executed using Jupyter Notebooks.
 
 ## Coding Overview
