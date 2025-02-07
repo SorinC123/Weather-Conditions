@@ -1,4 +1,4 @@
-# Weather Conditions and Climate Change with ClimateWins
+# Weather Conditions and Climate Change
 
 ## Project Summary
 This project assesses the tools available to categorize and predict the weather in mainland Europe using data collected by the European Climate Assessment & Data Set project. The study aims to explore the prediction accuracy of different
