@@ -7,12 +7,20 @@ algorithms: K-nearest neighbors, Decision Tree, and Artificial Neural Networks. 
 ## Key Questions
 - Can machine learning algorithms effectively predict future weather conditions?
 
-- What are the influential factors affecting happiness - economic, social, psychological, or environmental?
+- Which machine learning algorithm can be considered the definitive best choice for weather prediction?
 
-- Which countries rank highest and lowest in performance?
+- Does prediction accuracy vary depending on the algorithm used and the geographic location?
 
 ## Data Overview
-The datasets are sourced from Kaggle and contain data from the Gallup World Poll. The scores are based on answers to the main life evaluation question asked in the poll. This question, known as the Cantril ladder, asks respondents to think of a ladder with the best possible life for them being a 10 and the worst possible life being a 0 and to rate their own current lives on that scale. The scores are from nationally representative samples for the years 2015-2019 and use the Gallup weights to make the estimates representative.
+The data sets used for this project include:
+
+- weather observations from 18 different weather stations across Europe.
+  
+- data ranging from 1960 to 2022.
+  
+- recordings for almost every day with values such as temperature, wind speed, snow, global radiation, and more. 
+
+
 
 The data can be accessed here:
 https://www.kaggle.com/datasets/unsdsn/world-happiness
